@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "name": "balancan",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+        "location": "Honshu, Japan",
+        "image":"assets/images/place1.jpg",
+        "slide": [
+            {
+                "id":1,
+                "image":"assets/images/place1.jpg"
+            }
+        ],
+        "rating": 5,
+        "promosiones":[
+            {
+                "id":1,
+                "title":"qwerty",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes."
+            }
+        ],
+        "Artesania": [
+            {
+                "id": 1,
+                "name": "Vasos",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg",
+                "ubicacion":"https:google.masp/234ea,asdaaa",
+                "contacto":[
+                    {
+                        "id":1,
+                        "whatSapp":995325555
+                    },
+                    {
+                        "id":2,
+                        "instagram":"comida_123"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Playeras",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            }
+        ],
+        "Gastronomia": [
+            {
+                "id": 1,
+                "name": "Camaron",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Mole",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            }
+        ],
+        "Hospedaje": [
+            {
+                "id": 1,
+                "name": "Vista al Mar",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Bosques",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            }
+        ],
+        "Artesanos": [
+            {
+                "id": 1,
+                "name": "Vista al Mar",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Bosques",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "cárdenas",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+        "location": "Honshu, Japan",
+        "image": "assets/images/place1.jpg",
+        "rating": 2,
+        "Artesania": [
+            {
+                "id": 1,
+                "name": "Vasos",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Playeras",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            }
+        ],
+        "Gastronomia": [
+            {
+                "id": 1,
+                "name": "Camaron",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Mole",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            }
+        ],
+        "Hospedaje": [
+            {
+                "id": 1,
+                "name": "Vista al Mar",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Bosques",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            }
+        ],
+        "Artesanos": [
+            {
+                "id": 1,
+                "name": "Vista al Mar",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Bosques",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+                "precio": 15.2,
+                "image": "assets/images/place1.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "centro",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+        "location": "Honshu, Japan",
+        "image": "assets/images/place1.jpg",
+        "rating": 2
+    },
+    {
+        "id": 4,
+        "name": "comalcalco",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.",
+        "location": "Honshu, Japan",
+        "image": "assets/images/place1.jpg",
+        "rating": 4
+    }
+]

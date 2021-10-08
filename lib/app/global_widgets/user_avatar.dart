@@ -1,0 +1,24 @@
+import 'package:flutter/material.dart';
+
+class UserAvatar extends StatelessWidget {
+  const UserAvatar({
+    Key key,
+  }) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return /* IconButton(
+      icon: ClipOval(
+        child: Image.asset('assets/images/avatar.png'),
+      ),
+      onPressed: () {},
+    ); */
+        IconButton(
+      onPressed: () {},
+      icon: Icon(
+        Icons.notifications,
+        color: Colors.black,
+      ),
+    );
+  }
+}
